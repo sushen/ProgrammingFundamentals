@@ -25,6 +25,7 @@ else:
 # Calculate the total cost for the customer including the discount
 print(product_list[product_name]*quantity_of_product)
 # For customers with membership, 5% discount will apply.
+# TODO : We have to make a customer List
 member_customer = []
 
 
